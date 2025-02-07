@@ -4,23 +4,23 @@ This repository contains multiple console-based projects written in Java.
 
 ## Projects
 
-1. **To-Do List Application**
+📜. **To-Do List Application**
    - Description: Add, remove, and display tasks.
    - Location: `projects/todo_list`
 
-2. **Number Guessing Game**
+🎮. **Number Guessing Game**
    - Description: Let the user guess a number within a range.
    - Location: `projects/number_guessing_game`
 
-3. **Calculator**
+📱. **Calculator**
    - Description: Perform basic arithmetic operations.
    - Location: `projects/calculator`
 
-4. **Bank Account System**
+🏧. **Bank Account System**
    - Description: Simulate deposit, withdrawal, and balance checking.
    - Location: `projects/bank_account_system`
 
-5. **Student Management System**
+👨‍🎓. **Student Management System**
    - Description: Store student names, marks, and IDs.
    - Location: `projects/student_management_system`
 
